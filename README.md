@@ -14,7 +14,6 @@ cp .env.example .env
 composer install
 php -f sendgrid-php-example.php
 ```
-
 ## .envファイルの編集
 .envファイルは以下のような内容になっています。
 
